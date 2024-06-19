@@ -33,13 +33,13 @@ The Rock, Paper, Scissors Game is a Python application that allows users to play
 - The result of each round will be displayed on the screen.
 
 ## Output
-Enter your choice (rock, paper, or scissors): rock
-Computer chose: paper
-You lose!
-Score -> You: 0, Computer: 1
-Do you want to play again? (yes/no): yes
-Enter your choice (rock, paper, or scissors): paper
-Computer chose: rock
-You win!
-Score -> You: 1, Computer: 1
-Do you want to play again? (yes/no): 
+- Enter your choice (rock, paper, or scissors): rock
+- Computer chose: paper
+- You lose!
+- Score -> You: 0, Computer: 1
+- Do you want to play again? (yes/no): yes
+- Enter your choice (rock, paper, or scissors): paper
+- Computer chose: rock
+- You win!
+- Score -> You: 1, Computer: 1
+- Do you want to play again? (yes/no): no
